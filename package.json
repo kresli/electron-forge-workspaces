@@ -1,0 +1,11 @@
+{
+  "name": "workspace-forge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eduard Jacko <jacko.eduard@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
